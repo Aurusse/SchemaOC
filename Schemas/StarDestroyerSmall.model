@@ -1,5 +1,5 @@
 title:string=StarDestroyerSmall
-blocksBaseUrl:string=[TO_EDIT]
+blocksBaseUrl:string=Aurusse/SchemaOC/master/Schemas/StarDestroyerSmall
 author:string=nbt2ascii
 mats:table={
   b:string=minecraft:brick_block
