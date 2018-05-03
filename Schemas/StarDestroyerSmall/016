@@ -1,0 +1,91 @@
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+              00                                                                                                                                                
+             000000                                                                                                                                             
+             0x0000000                                                                                                                                          
+            00x00d00000000                                                                                                                                      
+              x00d00000000000                                                                                                                                   
+              x  200000000000000                                                                                                                                
+             0x  n  000000000000000                                                                                                                             
+             0x  n      00000d00000000                                                                                                                          
+             hx  d         00d000000000000                                                                                                                      
+             xx  d           n000000000000000                                                                                                                   
+             hx  0           n   0000000000000000000000                                                                                                         
+              x  0           d      00000d00dddddddddddz                                                                                                        
+              x  0           d          0d00000ddddddddz                                                                                                        
+       22    0x      lll     0           n 0000000ddddd000      0                                                                                               
+      x x22  ed     ll ll    0           n    0000000dd000000   0000                                                                                            
+      m 0x22522225yll   ll   0       0000d000000 0000d00000000000000000   0                                                                                     
+      m  022522225el     l               d          0d0000000000ddd0000000d000                                                                                  
+      m 0x22522225yll   ll               0           n  00000000dddddd0000dddd000                                                                               
+      x x22  ed     ll ll                2           n       00000ddddddddddddddd000                                                                            
+       22    0x      lll                 2           d          00000ddddddddddddddx                                                                            
+              x                                      d           00000000ddddddddddd000                                                                         
+              x                                      0            n 00000000dddddddd0000000                                                                     
+          x2222                                      0            n    00000000ddddddd00000000                                                                  
+          x2                                         0            d    d   0000000dddddddd000000                                                                
+        2222222225ylll                                            d    d      0000000dddddddd000                                                                
+          j_lllllll   l                  2                        0    d00000000n00000000ddddddd                                                                
+         22 spwwwwwwr lbd0               2                        0    d        n   00000000dddd000                                                             
+          j_lllllll   l                                           0    2        d       0000000dd00000                                                          
+        2222222225ylll                          lllllll                2    g   d          d00000000dd00xx0000                                                  
+          02                                  ll       ll              0 22202222          n  0000000d2dddddd000000                                             
+          d2222                              l           l              2eee eee2          n     00000000ddddddd0000000                                         
+              x                             l             l             2eee eee2          d        d0000000ddddddd0000                                         
+             0x      lllll                  l             l             2       2          d        n   0000000ddddddd0                                         
+       22    0x     l     l    m       m   l               l      2     2e e e e2          0        n      0000000ddddd000                                      
+      x x22  0x    l       l x meeeeeeem x l               l      2     2e e e e2          0        d         0000000dd000000                                   
+      m 0x22522225yl       ly52255555552252l               l      2     2       2          0        d            0000000d0000000                                
+      m  022522225el       le52222222222252l       2       l             2222222                 000d000dddddddnnnnnddddddddd000000     000                     
+      m 0x22522225yl       ly52255555552252l               l      2     2       2          0        d            0000000d0000000                                
+      x x22  0x    l       l x meeeeeeem x l               l      2     2e e e e2          0        d         0000000dd000000                                   
+       22    0x     l     l    m       m   l               l      2     2e e e e2          0        n      0000000ddddd000                                      
+             0x      lllll                  l             l             2       2          d        n   0000000ddddddd0                                         
+              x                             l             l             2eee eee2          d        d0000000ddddddd0000                                         
+          d2222                              l           l              2eee eee2          n     00000000ddddddd0000000                                         
+          02                                  ll       ll              0 22202222          n  0000000d2dddddd000000                                             
+        2222222225ylll                          lllllll                2    g   d          d00000000dd00xx0000                                                  
+          j_lllllll   l                                           0    2        d       0000000dd00000                                                          
+         22 spwwwwwwr lbd0               2                        0    d        n   00000000dddd000                                                             
+          j_lllllll   l                  2                        0    d00000000n00000000ddddddd                                                                
+        2222222225ylll                                            d    d      0000000dddddddd000                                                                
+          x2                                         0            d    d   0000000dddddddd000000                                                                
+          x2222                                      0            n    00000000ddddddd00000000                                                                  
+              x                                      0            n 00000000dddddddd0000000                                                                     
+              x                                      d           00000000ddddddddddd000                                                                         
+       22    0x      lll                 2           d          00000ddddddddddddddx                                                                            
+      x x22  ed     ll ll                2           n       00000ddddddddddddddd000                                                                            
+      m 0x22522225yll   ll               0           n  00000000dddddd0000dddd000                                                                               
+      m  022522225el     l               d          0d0000000000ddd0000000d000                                                                                  
+      m 0x22522225yll   ll   0       0000d000000 0000d00000000000000000   0                                                                                     
+      x x22  ed     ll ll    0           n    0000000dd000000   0000                                                                                            
+       22    0x      lll     0           n 0000000ddddd000      0                                                                                               
+              x  0           d          0d00000ddddddddz                                                                                                        
+              x  0           d      00000d00dddddddddddz                                                                                                        
+             hx  0           n   0000000000000000000000                                                                                                         
+             xx  d           n000000000000000                                                                                                                   
+             hx  d         00d000000000000                                                                                                                      
+             0x  n      00000d00000000                                                                                                                          
+             0x  n  000000000000000                                                                                                                             
+              x  200000000000000                                                                                                                                
+              x00d00000000000                                                                                                                                   
+            00x00d00000000                                                                                                                                      
+             0x0000000                                                                                                                                          
+             000000                                                                                                                                             
+              00                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
